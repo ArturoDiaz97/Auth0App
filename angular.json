@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "authapp"
+  "defaultProject": "authapp",
+  "cli": {
+    "analytics": false
+  }
 }
